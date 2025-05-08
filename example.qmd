@@ -1,0 +1,7 @@
+---
+title: "Example"
+format: html
+editor: visual
+---
+
+*This is the example qmd file*
